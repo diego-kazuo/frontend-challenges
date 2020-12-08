@@ -12,7 +12,7 @@ Qualquer feedback é muito bem vindo.</p>
 
 <h1>Hello, world!</h1>
 
-<p>My name is <strong>Diego Kazuo</strong> and I'm a frontend student.</p>
+<p>My name is <strong>Diego Kazuo</strong> and I'm a front-end student.</p>
 
 <p>In this repository is available some challenges done through the <em>Frontend Mentor</em> website,
 a real nice platform to experiment and practice the magical triad of HTML, CSS and JavaScript.
