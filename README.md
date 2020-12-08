@@ -1,24 +1,22 @@
-<pre>
 <h1>Olá, mundo!</h1>
 
-Meu nome é <strong>Diego Kazuo</strong> e sou estudante de front-end.
+<p>Meu nome é <strong>Diego Kazuo</strong> e sou estudante de front-end.</p>
 
-Nesse repositório estão disponíveis alguns desafios feitos através do site <em>Frontend Mentor</em>,
+<p>Nesse repositório estão disponíveis alguns desafios feitos através do site <em>Frontend Mentor</em>,
 uma plataforma bem bacana pra experimentar e praticar a tríade mágica HTML, CSS e JavaScript.
-Qualquer feedback é muito bem vindo.
+Qualquer feedback é muito bem vindo.</p>
 
-Obrigado pela visita! :)
+<p>Obrigado pela visita! :)</p>
 
 
 ---------------------------------------------------------------------------------------------
 
 <h1>Hello, world!</h1>
 
-My name is <strong>Diego Kazuo</strong> and I'm a frontend student.
+<p>My name is <strong>Diego Kazuo</strong> and I'm a frontend student.</p>
 
-In this repository is available some challenges done through the <em>Frontend Mentor</em> website,
+<p>In this repository is available some challenges done through the <em>Frontend Mentor</em> website,
 a real nice platform to experiment and practice the magical triad of HTML, CSS and JavaScript.
-Any feedback is very welcome.
+Any feedback is very welcome.</p>
 
-Thanks for passing by! :)
-</pre>
+<p>Thanks for passing by! :)</p>
