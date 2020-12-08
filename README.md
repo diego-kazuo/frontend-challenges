@@ -8,8 +8,7 @@ Qualquer feedback é muito bem vindo.</p>
 
 <p>Obrigado pela visita! :)</p>
 
-
----------------------------------------------------------------------------------------------
+<hr>
 
 <h1>Hello, world!</h1>
 
