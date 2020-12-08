@@ -1,0 +1,40 @@
+.statistics {
+    border-top: 1px solid hsl(0, 0%, 59%);
+}
+
+ul {
+    width: 268.317px;
+    padding-right: 40px;
+    position: relative;
+    bottom: 17px;
+    margin-bottom: 0;
+}
+
+ul li {
+    position: relative;
+    display: inline-block;
+    margin: 0.7em 1em 0;
+}
+
+#first-statistic {
+    right: 0.7em;
+}
+
+#second-statistic {
+    right: 0.5em;
+}
+
+#third-statistic {
+    left: 0.5em;
+}
+
+.statistics-numbers {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.statistics-description {
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    margin-top: 0.5em;
+}

@@ -1,0 +1,36 @@
+.profilecard {
+    max-width: 100%;
+    margin: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    background-color: white;
+    background-image: url("../images/bg-pattern-card.svg");
+    background-repeat: no-repeat;
+}
+
+figure img {
+    border: 5px solid white;
+    border-radius: 50%;
+    margin-top: 25%;
+}
+
+#owner-info {
+    margin-bottom: 0.5em;
+}
+
+.owner-name {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.owner-age {
+    margin-left: 0.3em;
+}
+
+.owner-location {
+    font-size: 14px;
+    margin-bottom: 2em;
+}
