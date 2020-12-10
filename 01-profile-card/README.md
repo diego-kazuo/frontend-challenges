@@ -11,7 +11,10 @@
   
 <h2>Atualizações:</h2>
 
-<p>(...)</p>
+<ul>
+  <li>(10/12) - correção: movido o footer pra dentro do body;</li>
+  <li>(...)</li>
+</ul>
 
 <hr>
 
@@ -28,4 +31,7 @@
 
 <h2>Updates:</h2>
 
-<p>(...)</p>
+<ul>
+  <li>(12/10) - correction: moved footer inside body;</li>
+  <li>(...)</li>
+</ul>
