@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    line-height: normal;
+}
+
+.header p {
+    margin: 0 auto;
+}
+
+.header span {
+    font-weight: var(--bold-font);
+}
+
+.header__title {
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+    color: var(--dark-blue);
+    font-weight: var(--light-font);
+}
+
+.header__subtitle {
+    font-size: 1rem;
+    line-height: 1.7rem;
+    max-width: 540px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    font-weight: var(--mid-font);
+    color: var(--gray-blue);
+}
